@@ -24,7 +24,6 @@ python train.py --traffic_file ./data/PEMS-BAY/pems-bay.h5 --SE_file ./data/PEMS
 ```
 
 ### Run the Pre-trained Model
-set the epoch=100 in yaml.
 * METR-LA
 
 ```
